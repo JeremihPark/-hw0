@@ -1,0 +1,1 @@
+Usage: ./hw0 <mat> <invec> <outvec>
